@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "https://panalytica.github.io/myfavorlist/"
+baseurl = "https://www.precisionanalytica.com/"
 title = "precision analytica"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
